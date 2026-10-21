@@ -14,9 +14,11 @@ Customer Churn Prediction is a Machine Learning project which helps us to predic
 - Google Colab
 ## Results
 
-- Original model accuracy: approximately 79%
-- Balanced model accuracy: approximately 73%
-- Churn recall with the balanced model: approximately 79%
+- Model: Logistic Regression with class balancing
+
+- Accuracy: approx 73%
+
+- Recall for customers who churned: approximately 79%
 
 ## How to Run
 
